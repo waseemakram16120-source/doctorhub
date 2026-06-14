@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "cd frontend && npm run dev"
+  },
+  "dependencies": {
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  }
+}
